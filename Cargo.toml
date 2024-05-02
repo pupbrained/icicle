@@ -39,3 +39,7 @@ regex = "1.9"
 [workspace]
 members = [".", "icicle-helper"]
 default-members = [".", "icicle-helper"]
+
+[patch.crates-io.loopdev]
+git = "https://github.com/mulkieran/loopdev"
+branch = "bump-bindgen-reduce-version"
