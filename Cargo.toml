@@ -41,5 +41,5 @@ members = [".", "icicle-helper"]
 default-members = [".", "icicle-helper"]
 
 [patch.crates-io.loopdev]
-git = "https://github.com/mulkieran/loopdev"
-branch = "bump-bindgen-reduce-version"
+git = "https://github.com/stratis-storage/loopdev-3"
+branch = "loopdev-3-v0.5.0"
